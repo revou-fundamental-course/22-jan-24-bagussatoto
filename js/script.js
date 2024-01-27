@@ -1,4 +1,3 @@
-
 function validateForm(){
     const formName = document.forms['form-message']['name'].value;
     const dateOfBirth = new Date(document.forms['form-message']['date-birth'].value);
@@ -6,6 +5,7 @@ function validateForm(){
     let currentDate = new Date();
     const kelaminRadio = document.querySelector('input[name="gender"]:checked');
     const pesan = document.forms['form-message']['pesan'].value;
+    const validateForm = document.value['valid'];
 
     if (formName == ""){
         alert("Nama tidak boleh kosong!");
