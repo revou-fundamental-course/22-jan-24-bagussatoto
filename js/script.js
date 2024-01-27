@@ -1,5 +1,3 @@
-let introName = prompt("May I know your name?", "");
-document.getElementById('banner-name').innerHTML = introName;
 
 function validateForm(){
     const formName = document.forms['form-message']['name'].value;
