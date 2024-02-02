@@ -1,7 +1,5 @@
-![image](https://github.com/revou-fundamental-course/22-jan-24-Wisnukan/assets/102946404/43e97d07-7644-4950-a54b-34fc0014b996)
 
-
-
+![sddddd](https://github.com/revou-fundamental-course/22-jan-24-bagussatoto/assets/87259393/8d1b987c-bb8e-4b8d-992f-9a7a41571a5d)
 
 
 
