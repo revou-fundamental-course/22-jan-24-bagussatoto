@@ -2,7 +2,7 @@
 ![sddddd](https://github.com/revou-fundamental-course/22-jan-24-bagussatoto/assets/87259393/8d1b987c-bb8e-4b8d-992f-9a7a41571a5d)
 
 
-<img src="./assets/ alt="Kepuasan" />
+<img src="./assets/demo.gif" alt="Demo />
 
 
 Mini Coding Project from RevoU :) 👉 https://rebrand.ly/brief-miniproject
